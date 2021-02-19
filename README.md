@@ -1,5 +1,5 @@
 ### Hi there 👋
-[Computer Security, Bachelor's](https://www.uib.no/en/studies/BAMN-DSIK) @ University of Bergen ✔️
+[Computer Security, Bachelor's](https://www.uib.no/en/studies/BAMN-DSIK) @ University of Bergen ✔️  
 [Software Engineering, Master's](https://www.uib.no/en/studies/MAMN-PROG) @ University of Bergen 🌱
 
 ![Mathias's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathiasSJacobsen&show_icons=true&theme=react&count_private=true)
